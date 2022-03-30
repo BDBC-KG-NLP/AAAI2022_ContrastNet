@@ -9,7 +9,10 @@ code and data for AAAI2022 paper "ContrastNet: A Contrastive Learning Framework 
 
 ## Description of each script
 
-run_intent_k_1_c_5.sh: 5-way 1-shot classification for intent datasets.
-run_intent_k_5_c_5.sh: 5-way 5-shot classification for intent datasets.
-run_text_k_1_c_5.sh: 5-way 1-shot classification for news or review datasets.
+run_intent_k_1_c_5.sh: 5-way 1-shot classification for intent datasets.  
+
+run_intent_k_5_c_5.sh: 5-way 5-shot classification for intent datasets.  
+
+run_text_k_1_c_5.sh: 5-way 1-shot classification for news or review datasets.  
+
 run_text_k_5_c_5.sh: 5-way 5-shot classification for news or review datasets.
