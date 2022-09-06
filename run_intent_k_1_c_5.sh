@@ -35,7 +35,7 @@ for cv in 01 02 03 04 05; do
         \
         --super-tau 5.0 \
         --unsuper-tau 7.0 \
-        --task-tau 7.0 \
+        --task-tau 3.0 \
         --lr 1e-6 \
         --super-weight 0.95 \
         --task-weight 0.1 \
@@ -83,7 +83,7 @@ for cv in 01 02 03 04 05; do
         \
         --super-tau 5.0 \
         --unsuper-tau 7.0 \
-        --task-tau 7.0 \
+        --task-tau 3.0 \
         --lr 1e-6 \
         --super-weight 0.95 \
         --task-weight 0.1 \
@@ -131,7 +131,7 @@ for cv in 01 02 03 04 05; do
         \
         --super-tau 5.0 \
         --unsuper-tau 7.0 \
-        --task-tau 7.0 \
+        --task-tau 3.0 \
         --lr 1e-6 \
         --super-weight 0.95 \
         --task-weight 0.1 \
@@ -179,7 +179,7 @@ for cv in 01 02 03 04 05; do
         \
         --super-tau 5.0 \
         --unsuper-tau 7.0 \
-        --task-tau 7.0 \
+        --task-tau 3.0 \
         --lr 1e-6 \
         --super-weight 0.95 \
         --task-weight 0.1 \
